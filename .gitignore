@@ -1,0 +1,12 @@
+# python
+*.pyc
+__pycache__/
+.venv/
+.env
+
+# mlflow
+mlruns/
+
+# dvc
+
+!.dvc
